@@ -1,0 +1,33 @@
+.course-sec {
+    background: linear-gradient(to right, #ffffff, #f9f9fb, #f4f3f7, #eeeef4, #e8e8f0, #e5e7f0, #e2e7f0, #dfe6ef, #e0eaf1, #e2eef2, #e5f1f2, #e9f4f3);
+}
+table,
+tr,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+.headline-first{
+    font-size: 15px;
+    line-height: 25px;
+    font-weight: 700;
+    letter-spacing: 0px;
+    color: #211950;
+}
+.headline {
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 41px;
+    letter-spacing: 1px;
+    color: #211950;
+}
+table tr:first-child td {
+    box-shadow: inset 0px 4px 3px -2px rgb(0 0 0 / 6%);
+}
+.table-txt{
+    font-size: 15px;
+}
+.btn-txt{
+    font-size: 15px !important;
+}

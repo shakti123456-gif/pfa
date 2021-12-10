@@ -1,0 +1,19 @@
+.topSec{
+    padding: 110px 98px 42px 61px;
+}
+.topHeading{
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 69px;
+    color: white;
+}
+.bottomSec{
+    background-color: #98989ce8;
+    padding: 58px 94px 62px 69px;
+}
+.descTxt{
+    color: #fff;
+    font-size: 14.8px;
+    font-family: Roboto, sans-serif;
+    line-height: 22px;
+}

@@ -1,0 +1,40 @@
+
+*{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+
+.footerTxt {
+    color: aliceblue;
+}
+.ulList {
+    padding-left: 0rem;
+}
+.ulList li {
+    list-style-type: none;
+    margin-bottom: 8px;
+}
+.aboutTxt {
+    font-family: "Red Hat Display" !important;
+    color: #fff;
+}
+.mapTxt {
+    font-weight: 500;
+    font-size: 14px;
+}
+.mapTxt:hover {
+    color: #e4b81e;
+    cursor: pointer;
+}
+.mobile-gamil-txt {
+    font-size: 19px;
+    text-transform: initial;
+}
+.links li {
+    font-weight: 500;
+    font-size: 14px;
+}
+.links li:hover {
+    color: #e4b81e;
+    cursor: pointer;
+}

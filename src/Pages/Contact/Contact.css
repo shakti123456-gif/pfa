@@ -1,0 +1,24 @@
+.contact{
+    background: linear-gradient(to right, #ffffff, #f9f9fb, #f4f3f7, #eeeef4, #e8e8f0, #e5e7f0, #e2e7f0, #dfe6ef, #e0eaf1, #e2eef2, #e5f1f2, #e9f4f3);
+}
+.address-txt{
+    font-size: 15px;
+    line-height: 25px;
+    font-weight: 700;
+    letter-spacing: 0px;
+    color: #211950;
+}
+.future-text{
+    font-size: 43px;
+    font-weight: 600;
+    color: #3F4C5F;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+.name-text{
+    font-size: 15px;
+    color: #3f4c5f;
+}
+.number-text{
+    font-weight: 700;
+}

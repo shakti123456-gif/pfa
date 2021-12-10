@@ -1,0 +1,27 @@
+.course-heading{
+    font-size: 45px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 2px;
+    color: #3f4c5f !Important;
+}
+.courseTitle{
+    color: #211950;
+}
+.card-text{
+    font-size: 14px !important;
+}
+.card{
+    position:static !important;
+}
+.line{
+    width: 16%;
+    height: 10px;
+    box-shadow: 1.25rem 1.375rem 4.75rem 0 rgba(0,0,0,.22)!important;
+    background: #e0bc0e;
+    text-align: center;
+}
+.hover-sec:hover{
+    background: #0d6efd;
+    color: #fff;
+}

@@ -1,0 +1,15 @@
+.headingTxt{
+    font-size: 53px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 2px;
+    color: #fff;
+}
+.para{
+    color: #fff;
+    letter-spacing: 0.5px;
+}
+.heading-title-text{
+    font-weight: 700;
+    color: #fff;
+}
